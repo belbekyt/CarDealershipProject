@@ -1,0 +1,8 @@
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\bin\Debug\zaliczenie.exe.config
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\bin\Debug\zaliczenie.exe
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\bin\Debug\zaliczenie.pdb
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\obj\Debug\zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\obj\Debug\zaliczenie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\obj\Debug\zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\obj\Debug\zaliczenie.exe
+C:\Users\Miłosz\source\repos\zaliczenie\zaliczenie\obj\Debug\zaliczenie.pdb
