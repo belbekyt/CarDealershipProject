@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Car.cs" />
     <Compile Include="CarsFabric.cs" />
+    <Compile Include="DealerCheck.cs" />
     <Compile Include="Welcome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

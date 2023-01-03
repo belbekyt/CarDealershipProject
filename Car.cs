@@ -8,18 +8,18 @@ namespace zaliczenie
 {
     internal class Car
     {
+        public int id;
         public string name;
         public string brand;
-        public string[] colors;
         public string[] engine;
         public float price;
         public int dealer;
 
-        public Car(string carName, string carBrand, string[] carColors, string[] carEngine, float carPrice, int carDealer)
+        public Car(int carId, string carName, string carBrand, string[] carEngine, float carPrice, int carDealer)
         {
+            id = carId;
             name = carName;
             brand = carBrand;
-            colors = carColors;
             engine = carEngine;
             price = carPrice;
             dealer = carDealer;

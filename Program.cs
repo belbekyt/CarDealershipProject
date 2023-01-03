@@ -11,7 +11,8 @@ namespace zaliczenie
         static void Main(string[] args)
         {
             Welcome.WelcomeFunction();
-            CarsFabric.Konsolka();
+            int dealerId = DealerCheck.DealerIdCheck();
+            CarsFabric.ShowDealerCars(dealerId);
         }
     }
 }
